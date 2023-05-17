@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div>
-      Blog
+      blog from slugs
     </div>
   )
 }
